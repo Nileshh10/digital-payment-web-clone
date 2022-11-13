@@ -9,7 +9,7 @@
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 
 
-## **PAYTM** [Live Link](https://nilesh-paytm-clone.netlify.app/)  
+## **PAYTM** [Live Link](https://nilesh-ecommerce-website.netlify.app/)  
 
 ### Website Image
 ![website img](./screenshot/paytm.png)
